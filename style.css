@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    display: inline;
+}
+
+h1, h3 {
+    color: blue;
+}
+
+.uli {
+    width: 100%;
+}
+
+li {
+    padding: 10px;
+    margin: auto;
+}
