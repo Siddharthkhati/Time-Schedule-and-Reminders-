@@ -1,4 +1,4 @@
-# Time-Schedule-and-Reminders-
+# Time-Schedule-and-Reminders
 The main objective of this project is that you can quickly schedule meetings and events and get reminders about upcoming activities, so you always know what’s next. Time Schedule and Reminders is designed for teams, so that its easy to share your schedule with others and create multiple reminders that you and your team can use together. Reminders can be enabled for events and other and other users can be invited for events.
 
 
